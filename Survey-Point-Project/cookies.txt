@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+shilpakini1508.wixsite.com	TRUE	/mysite-1	FALSE	1999999999	svSession	d183155e50f6f8d034b694e20555a2c2eca39cfacfc35705fbcf81483830b4b94dee45a282368cb4fc39101f943754311e60994d53964e647acf431e4f798bcdc4ade895e9db104abea54a90933cda2188cab41449a1de7173bdc8285b517e17
+shilpakini1508.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1584515132|w-hIl7EvfUsp
+shilpakini1508.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache,desc=miss,varnish=miss, dc,desc=as1"
+shilpakini1508.wixsite.com	TRUE	/	FALSE	1999999999	hs	-1778557791
+
